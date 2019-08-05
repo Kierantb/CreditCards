@@ -1,9 +1,0 @@
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\bin\Debug\Database.dacpac
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\bin\Debug\Database.dll
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\bin\Debug\Database.pdb
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\obj\Debug\Model.xml
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\obj\Debug\refactor.xml
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\obj\Debug\postdeploy.sql
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\obj\Debug\predeploy.sql
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\obj\Debug\Database.dll
-C:\Users\Kieran\Documents\My Documents\Projects\CreditCardPreQualification\Database\obj\Debug\Database.pdb
