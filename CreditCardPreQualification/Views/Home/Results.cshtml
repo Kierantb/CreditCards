@@ -1,0 +1,41 @@
+﻿@model CreditCardPreQualification.View_Models.CustomerResultsViewModel
+@{
+    ViewBag.Title = "Results";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Results</h2>
+
+<b>Hello </b> <p> @Model.FirstName</p>
+
+<p> <i>Thank you</i> for choosing Experian</p>
+
+<b>@Model.CardResult</b>
+
+
+@if (Model.CardResult == "Barclaycard")
+{
+    <p>@Model.APR() APR. @Model.PromoMessage()</p>
+
+    <div>
+
+        *BARCLAY CARD IMAGE*
+
+    </div>
+}
+else if (Model.CardResult == "Vanquis card")
+{
+    <p>@Model.APR() APR. @Model.PromoMessage()</p>
+
+    <div>
+
+        *VANQUIS CARD IMAGE*
+
+    </div>
+}
+else
+{
+
+}
+
+
